@@ -51,3 +51,6 @@ The test cases are generated so that all the values in the output fit in a **32-
 - 1 <= formula.length <= 1000
 - formula consists of English letters, digits, '(', and ')'.
 - formula is always valid.
+
+# problem:
+https://leetcode.com/problems/number-of-atoms/description/?envType=daily-question&envId=2024-07-14
